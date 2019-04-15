@@ -1,14 +1,14 @@
 # Lab 9: Super Lexicon
 
 ## Useful Links
- * [Course Homepage](http://cs.williams.edu/~cs136/index.html) (with TA schedule)
- * [Lab Webpage](http://cs.williams.edu/~cs136/labs/lexicon.html)
- * [Lab Hints](http://cs.williams.edu/~cs136/labs/lexicon-hints.html)
+ * [Course Homepage](https://williams-cs.github.io/cs136s19-www/) (with TA schedule)
+ * [Lab Webpage](https://williams-cs.github.io/cs136s19-www/assets/labs/lab8/lexicon.html)
+ * [Lab Hints](https://williams-cs.github.io/cs136s19-www/assets/labs/lab8/tips_n_tricks.html)
 
 
 ## Repository Contents
 This repository contains the starter files for writing and testing
-your Trie-based Lexicon.
+your trie-based Lexicon.
 
 ## Using Main.java to Test
 
@@ -16,7 +16,7 @@ your Trie-based Lexicon.
 $ java Main
 ```
 
-If you hit enter, you will be given a list of options.
+If you hit the `Enter` key, you will be given a list of options.
 
 ```
 a  add        Add <word>                Add word to lexicon
@@ -30,19 +30,7 @@ q  quit       Quit                      Quit the program
 i  iter       iter                      test iter
 ```
 
-After selecting a command, Main will execute the corresponding methods
+After selecting a command, `Main` will execute the corresponding methods
 in your Lexicon code. (This is why it is important to have "stubs" for
 functions that are not yet implemented.) Test your functionality
 incrementally!
-
-
-# Lexicon Thought Questions
-
- 1. For each node in the trie, you need to store pointers to its children nodes. What data structure did you use to store the pointers to children nodes? Justify the choice you made.
-   * Data structure choice:
-   * Justification:
-2. Suppose we use an OrderedVector instead of a trie for storing our Lexicon. Discuss how the process of searching for suggested spelling corrections would differ from our trie-based implementation. Which is more efficient? Why?
-   * Searching in a trie:
-   * Searching in an OrderedVector:
-   * Which is more efficient? (_justify your answer_)
-
