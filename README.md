@@ -1,4 +1,4 @@
-# Lab 9: Super Lexicon
+# Lab 8: Super Lexicon
 
 ## Useful Links
  * [Course Homepage](https://williams-cs.github.io/cs136s19-www/) (with TA schedule)
