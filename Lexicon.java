@@ -94,7 +94,7 @@ public interface Lexicon {
      * This method returns an iterator over all
      * words contained in the lexicon. Accessing the
      * words from the iterator will retrieve them in
-     * alpahbetical order. This operations runs in
+     * alphabetical order. This operations runs in
      * O(N) time where N is the total number of words
      * in the lexicon.
      */
