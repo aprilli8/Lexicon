@@ -1,9 +1,9 @@
 # Lab 8: Super Lexicon
 
 ## Useful Links
- * [Course Homepage](https://williams-cs.github.io/cs136s19-www/) (with TA schedule)
- * [Lab Webpage](https://williams-cs.github.io/cs136s19-www/assets/labs/lab8/lexicon.html)
- * [Lab Hints](https://williams-cs.github.io/cs136s19-www/assets/labs/lab8/tips_n_tricks.html)
+ * [Course Homepage](https://williams-cs.github.io/cs136-f19-www/) (with TA schedule)
+ * [Lab Webpage](https://williams-cs.github.io/cs136-f19-www/labs/lexicon.html)
+ * [Lab Hints](https://williams-cs.github.io/cs136-f19-www/labs/lexicon_tips_n_tricks.html)
 
 
 ## Repository Contents
