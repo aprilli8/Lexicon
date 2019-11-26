@@ -130,6 +130,9 @@ public class LexiconTrie implements Lexicon{
       return wordCount;
     }
 
+
+    /*$ In the future, you might consider writing a helper method with the
+        code shared by containsWord and containsPrefix. :) */
     /*
     * This member function returns true if the specified
     * word exists in this lexicon, false otherwise.

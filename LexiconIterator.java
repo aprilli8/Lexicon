@@ -24,6 +24,9 @@ public class LexiconIterator extends AbstractIterator<String> {
     buildWords(root, "");
   }
 
+  //$  Words are not added in alphabetical order.
+  //$ this bug is hard to reproduce--I only got it to work a couple times
+  //$ it seems to be a weird corner case
   /**
    * pre: currentNode is a valid LexiconNode and soFar is a valid String
    * post: recursively calls itself in a pre-order traversal of the tree and
