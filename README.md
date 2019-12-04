@@ -1,3 +1,12 @@
+# Lab 9 High-level Feedback
+ * Great job! 👍 Nice commenting!
+ * Words from trie were not printed in alphabetical order. Remember, we want to
+   do a preorder traversal of the trie.
+ * +2 extra credit points: recursive remove completed.
+
+__Lab 9 Score: 28/26__
+__Reviewed by Sam__
+
 # Lab 9: Super Lexicon
 
 ## Useful Links
